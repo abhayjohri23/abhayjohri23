@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhay Johri
-- 👀 I’m interested in Full-stack development of web applications. 
+- 👀 I’m interested in building full stack applications. 
 - 🌱 I’m currently learning Front end technologies - HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate to work on projects (or issues) which need innovation, creativity and are challenging enough. 
 - 📫 Reach out to me on my LinkedIn handle: 
